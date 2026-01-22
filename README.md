@@ -21,7 +21,3 @@ https://mirabox.key123.vip/
 ### 프로그램 재실행
 
 Stream Dock 프로그램을 종료 후 재시작하면 적용됩니다.
-
-## 라이선스
-
-MIT
